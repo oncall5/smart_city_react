@@ -1,0 +1,1 @@
+export const streamUrl = (source) => `http://10.11.24.56:8002/flv?port=1935&app=myapp&stream=${source}`
